@@ -11,3 +11,6 @@ download the [ormlite-jdbc](https://github.com/j256/ormlite-jdbc) package instea
 * Maven packages are published via [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.j256.ormlite/ormlite-android/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/com.j256.ormlite/ormlite-android/)
 
 Enjoy, Gray Watson
+
+
+compile 'com.j256.ormlite:ormlite-android:+'
